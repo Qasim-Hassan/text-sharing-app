@@ -29,7 +29,7 @@ TextShare is a simple, lightweight social networking web app that allows users t
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/textshare.git
+git clone https://github.com/Qasim-Hassan/text-sharing-app.git
 cd textshare
 ```
 
